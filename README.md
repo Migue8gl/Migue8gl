@@ -7,4 +7,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=migue8gl&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="migue8gl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=migue8gl&show_icons=true&theme=tokyonight&locale=en" alt="migue8gl" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=migue8gl&show_icons=true&theme=tokyonight&locale=en" alt="migue8gl" /></p>
