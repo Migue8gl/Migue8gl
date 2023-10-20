@@ -1,13 +1,15 @@
-<p align="left">
-  🌱 Hi, I'm Miguel García López. I'm a Junior Software Engineer currently studying at the University of Granada. My primary interests lie in artificial intelligence, particularly machine learning and metaheuristic optimization algorithms. I've been actively involved in real software development projects, leveraging the Symfony Framework to deploy customized APIs and various services following the MVC pattern.
-</p>
+<div align="center">
+  <p>
+    🌱 Hi, I'm Miguel García López. I'm a Junior Software Engineer currently studying at the University of Granada. My primary interests lie in artificial intelligence, particularly machine learning and metaheuristic optimization algorithms. I've been actively involved in real software development projects, leveraging the Symfony Framework to deploy customized APIs and various services following the MVC pattern.
+  </p>
 
-<p align="left">
-  📫 You can reach me at <a href="mailto:migue8gl@gmail.com">migue8gl@gmail.com</a>.
-</p>
+  <p>
+    📫 You can reach me at <a href="mailto:migue8gl@gmail.com">migue8gl@gmail.com</a>.
+  </p>
+</div>
 
-<h3 align="left">Programming Languages:</h3>
-<p align="left">
+<h3 align="center">Programming Languages:</h3>
+<p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -17,8 +19,8 @@
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Tools:</h3>
-<p align="left">
+<h3 align="center">Tools:</h3>
+<p align="center">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
   <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
@@ -29,6 +31,6 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 </p>
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=migue8gl&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="migue8gl" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=migue8gl&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="migue8gl" />
 </p>
