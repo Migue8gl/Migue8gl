@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    🌱 Hi, I'm Miguel García López. Junior Software Engineer currently studying at the University of Granada. My primary interests lie in artificial intelligence, particularly machine learning and metaheuristic optimization algorithms. Actively involved in real software development projects, leveraging the Symfony Framework to deploy customized APIs and various services following the MVC pattern.
+    🌱 Hi, I'm Miguel García López. Software Engineer currently studying at the University of Granada. My primary interests lie in artificial intelligence, particularly machine learning and metaheuristic optimization algorithms. Actively involved in real software development projects, leveraging the Symfony Framework to deploy customized APIs and various services following the MVC pattern.
   </p>
 
   <p>
