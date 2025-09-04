@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    🌱 Hi, I'm Miguel García López. Working as a data scientist with a love of programming. My primary interests lie in artificial intelligence, particularly machine learning, deep learning and metaheuristic optimization algorithms. Actively involved in real software and NLP development projects.
+    🌱 Hi, I'm Miguel García López. Working as a data scientist with a love of programming. My primary interests lie in artificial intelligence, particularly machine learning, deep learning and metaheuristic optimization algorithms. Actively engaged in applied research and development across AI, software engineering, and data-driven technologies.
   </p>
 
   <p>
