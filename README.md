@@ -12,8 +12,8 @@ Data Scientist with a background in Computer Science and Master's-level expertis
 
 ### 🚀 Featured Projects
 
-**🔬 [TFM — VAEs for Out-of-Distribution Detection](https://github.com/Migue8gl/TFM-VAEs-OOD-Detection-Comparative-Study)**
-Master's thesis analyzing the effectiveness of Variational Autoencoders (VAEs) for Out-of-Distribution detection, comparing them against state-of-the-art methods and highlighting their strengths and limitations. `Python` `VAE` `OOD Detection`
+**🔬 [TFM — Representation Quality in Out-of-Distribution Detection](https://github.com/Migue8gl/TFM-Representation-Quality-OOD)**
+Master's thesis investigating whether the quality of learned representations impacts Out-of-Distribution detection more than the choice of scoring method. Unified benchmark comparing CNN, hybrid ViT and generative architectures against post-hoc and VAE-based detectors across multiple datasets. `Python` `PyTorch` `OOD Detection` `VAE` `ViT`
 
 **🧬 [Synthetic Data Generator (CVAE)](https://github.com/Migue8gl/SyntheticDataGeneratorCVAE)**
 Pipeline for generating synthetic tabular data using a Conditional Variational Autoencoder, with built-in evaluation by training classifiers on the generated data. `Python` `CVAE` `Generative Models`
